@@ -1,0 +1,8 @@
+{
+  "name": "Unyx",
+  "description": "A secure, AI-powered personal cloud repository for photos, videos, and documents. Features Gemini-powered organization, image generation, and fast assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
